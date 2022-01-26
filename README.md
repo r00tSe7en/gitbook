@@ -680,7 +680,7 @@ somd5的字典
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) （Payload集合）
 
-[Bug Bounty Hunting Search Engine](./#xin-xi-shou-ji) （漏洞赏金搜索引擎）
+bugbountyhunting（漏洞赏金搜索引擎）
 
 [Hack Inn](https://www.hackinn.com) （安全大会议题ppt集合）
 
