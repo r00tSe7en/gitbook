@@ -119,7 +119,7 @@ description: 在线工具集合
 
 [Ping查询\_专业的 IP 地址库\_IPIP.NET](https://tools.ipip.net/ping.php)
 
-[网站IP地址查询_批量查询网站IP地址_买链帮手,网站批量查询工具](http://www.link114.cn/ip/)（支持批量ip查询）
+[网站IP地址查询\_批量查询网站IP地址\_买链帮手,网站批量查询工具](http://www.link114.cn/ip/)（支持批量ip查询）
 
 [发现隐藏在CloudFlare背后的坏人](http://www.crimeflare.org:82/cfs.html)（CloudFlare老外ip数据库）
 
@@ -461,7 +461,6 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 1.<script>eval("\u0061\u006c\u0065\u0072\u0074\u0028\u002f\u0078\u0073\u0073\u002f\u0029");</script>（JS Unicode编码）
 2.<script>eval("\141\154\145\162\164\50\57\170\163\163\57\51");</script>（JS八进制编码）
 3.<script>eval("\x61\x6c\x65\x72\x74\x28\x27\x58\x53\x53\x27\x29");</script>（JS十六进制编码）
-
 ```
 
 ### 反弹SHELL
@@ -570,7 +569,7 @@ somd5的字典
 
 [cookie字符串转json(dict字典)](http://tools.bugscaner.com/cookietodict)
 
-[字数统计_在线字数计算器_英文汉字字数统计_兼容手机版_一站阅读](https://www.a-site.cn/tool/zi/)
+[字数统计\_在线字数计算器\_英文汉字字数统计\_兼容手机版\_一站阅读](https://www.a-site.cn/tool/zi/)
 
 [草料二维码生成器](https://cli.im)
 
@@ -618,7 +617,7 @@ somd5的字典
 
 [你注册过哪些网站？一搜便知 - REG007](https://www.reg007.com)
 
-&#x20;[CheckUserNames](https://checkusernames.com)  （在线 OSINT 工具，可帮助您在 170 多个社交网络中查找用户名。它还可以用于检查品牌公司名称，而不仅仅是个人。）
+[CheckUserNames](https://checkusernames.com) （在线 OSINT 工具，可帮助您在 170 多个社交网络中查找用户名。它还可以用于检查品牌公司名称，而不仅仅是个人。）
 
 [TG机器人@FreeSGKbot](https://t.me/FreeSGKbot) （tg社工库）
 
@@ -680,11 +679,10 @@ somd5的字典
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) （Payload集合）
 
-bugbountyhunting（漏洞赏金搜索引擎）
+[bugbountyhunting](https://www.bugbountyhunting.com)（漏洞赏金搜索引擎）
 
 [Hack Inn](https://www.hackinn.com) （安全大会议题ppt集合）
 
 [阿里云漏洞库](https://avd.aliyun.com) （漏洞更新及时）
 
 [PeiQi文库 · 语雀](https://www.yuque.com/peiqiwiki/)（poc集合）
-
