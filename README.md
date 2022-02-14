@@ -41,6 +41,8 @@ description: 在线工具集合
 
 [Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/google) （企业信息查询）
 
+[AlienVault - Open Threat Exchange](https://otx.alienvault.com) （快速查询子域相关）
+
 ### 搜索引擎
 
 [Google搜索](https://www.google.com)
