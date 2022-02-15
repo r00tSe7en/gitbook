@@ -57,6 +57,12 @@ description: 在线工具集合
 
 [ZoomEye - 网络空间搜索引擎](https://www.zoomeye.org)
 
+[Spyse — Internet Assets Search Engine](https://spyse.com)
+
+[FullHunt | Expose Your Attack Surface](https://fullhunt.io)
+
+[QAX全球鹰Hunter](https://hunter.qianxin.com)
+
 [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 
 [进阶Google搜索](https://w-e-b.site/?act=google-search)
