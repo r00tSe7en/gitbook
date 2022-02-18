@@ -363,7 +363,7 @@ https://www.anquanke.com/post/id/231441
 | Burp Requests            | [https://github.com/silentsignal/burp-requests](https://github.com/silentsignal/burp-requests/)                                          |
 | burpFakeIP               | [https://github.com/TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)                                               |
 | Knife                    | [https://github.com/bit4woo/knife](https://github.com/bit4woo/knife)                                                                     |
-| xp\_CAPTCHA              | [http://www.nmd5.com/posts/2021-04-24-26](http://www.nmd5.com/posts/2021-04-24-26/)                                                      |
+| NEW\_xp\_CAPTCHA         | <p>插件：https://github.com/smxiazi/NEW_xp_CAPTCHA </p><p>更换识别库：https://github.com/sml2h3/ddddocr</p>                                       |
 | Captcha Killer           | [https://github.com/c0ny1/captcha-killer](https://github.com/c0ny1/captcha-killer)                                                       |
 | Chunked Coding Converter | [https://github.com/c0ny1/chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter)                                   |
 | BurpSuite\_403Bypasser   | [https://github.com/sting8k/BurpSuite\_403Bypasser](https://github.com/sting8k/BurpSuite\_403Bypasser)                                   |
