@@ -508,6 +508,7 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 • https://github.com/3had0w/Fuzzing-Dicts
 • https://github.com/j3ers3/PassList
 • https://github.com/fuzz-security/SuperWordlist [基于实战沉淀下的各种弱口令字典]
+• https://github.com/Daveqqq/weak-passwords-top200 []
 
 somd5的字典
 • https://www.somd5.com/download/dict/
