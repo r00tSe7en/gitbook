@@ -509,24 +509,23 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 • https://github.com/j3ers3/PassList
 • https://github.com/fuzz-security/SuperWordlist [基于实战沉淀下的各种弱口令字典]
 • https://github.com/Daveqqq/weak-passwords-top200 []
+• https://github.com/t43Wiu6/blackJack-Dicts [参考十余个项目整理的目录和文件字典]
 
 somd5的字典
 • https://www.somd5.com/download/dict/
 • https://www.somd5.com/somd5top10w.tar.gz
 
-中文名字拼音
+中文拼音
 • https://github.com/rakjong/top-500-username
+• https://github.com/ffffffff0x/name-fuzz [针对目标已知信息的字典生成工具]
+• https://github.com/LandGrey/ChineseMaskReflector [使用掩码生成自定义中文用户名拼音爆破字典]
 
 域用户枚举字典 
 • https://github.com/attackdebris/kerberos_enum_userlists
 
 定制化自定义生成
 • https://github.com/Mebus/cupp
-
-定制化
 • https://github.com/HongLuDianXue/BaiLu-SED-Tool
-
-自定义生成
 • https://github.com/bit4woo/passmaker
 ```
 
