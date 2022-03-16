@@ -141,6 +141,10 @@ description: 在线工具集合
 
 可用子域发现->DNS->综合型
 
+#### 模糊匹配
+
+[Domain Name Search Engine - Namedroppers](https://www.namedroppers.com)
+
 ### 邮箱采集
 
 [红队测试之邮箱打点](https://mp.weixin.qq.com/s?\_\_biz=MzAwMzYxNzc1OA==\&mid=2247483886\&idx=1\&sn=4c98836e278737054a2d32416007fa27\&chksm=9b39275fac4eae490e0c5ca5f90887aa3b8a441f137d18d3b73470ba46577b41ea3a9cfa1342\&mpshare=1\&scene=23\&srcid=\&sharer\_sharetime=1589279316797\&sharer\_shareid=596f231001c1b1188da61ae064765cc8#rd)（推荐[theHarvester](https://github.com/laramies/theHarvester)）
