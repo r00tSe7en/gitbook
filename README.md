@@ -41,7 +41,7 @@ description: 在线工具集合
 
 [Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/google) （企业信息查询）
 
-[AlienVault - Open Threat Exchange](https://otx.alienvault.com) （快速查询子域相关）
+[AlienVault - Open Threat Exchange](https://otx.alienvault.com/) （快速查询子域相关）
 
 ### 搜索引擎
 
@@ -57,11 +57,11 @@ description: 在线工具集合
 
 [ZoomEye - 网络空间搜索引擎](https://www.zoomeye.org)
 
-[Spyse — Internet Assets Search Engine](https://spyse.com)
+[Spyse — Internet Assets Search Engine](https://spyse.com/)
 
-[FullHunt | Expose Your Attack Surface](https://fullhunt.io)
+[FullHunt | Expose Your Attack Surface](https://fullhunt.io/)
 
-[QAX全球鹰Hunter](https://hunter.qianxin.com)
+[QAX全球鹰Hunter](https://hunter.qianxin.com/)
 
 [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 
@@ -70,6 +70,8 @@ description: 在线工具集合
 [Google Hacking](https://www.0xll.cc/google\_hack.html) （快捷/github/pastbin）
 
 [Bug Bounty Helper](https://dorks.faisalahmed.me) （Google Hacking）
+
+[Public Buckets by GrayhatWarfare](https://buckets.grayhatwarfare.com/) （公共存储桶搜索）
 
 ### 子域/IP/旁站C段
 
@@ -143,7 +145,7 @@ description: 在线工具集合
 
 #### 模糊匹配
 
-[Domain Name Search Engine - Namedroppers](https://www.namedroppers.com)
+[Domain Name Search Engine - Namedroppers](https://www.namedroppers.com/)
 
 ### 邮箱采集
 
