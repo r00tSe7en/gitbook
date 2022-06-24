@@ -383,6 +383,8 @@ https://waf-bypass.com/
 | Wsdler                   | [https://github.com/portswigger/wsdler](https://github.com/portswigger/wsdler)                                                           |
 | .NET Beautifier          | [https://github.com/portswigger/dotnet-beautifier](https://github.com/portswigger/dotnet-beautifier)                                     |
 | ViewState Editor         | [https://github.com/portswigger/viewstate-editor](https://github.com/portswigger/viewstate-editor)                                       |
+| HaE                      | [https://github.com/gh0stkey/HaE](https://github.com/gh0stkey/HaE)                                                                       |
+| Passive Scan Client      | [http://github.com/c0ny1/passive-scan-client](http://github.com/c0ny1/passive-scan-client)                                               |
 
 ## 在线工具
 
