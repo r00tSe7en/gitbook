@@ -388,6 +388,7 @@ https://waf-bypass.com/
 | ViewState Editor         | [https://github.com/portswigger/viewstate-editor](https://github.com/portswigger/viewstate-editor)                                       |
 | HaE                      | [https://github.com/gh0stkey/HaE](https://github.com/gh0stkey/HaE)                                                                       |
 | Passive Scan Client      | [http://github.com/c0ny1/passive-scan-client](http://github.com/c0ny1/passive-scan-client)                                               |
+| burp-wildcard            | [https://github.com/hvqzao/burp-wildcard](https://github.com/hvqzao/burp-wildcard)                                                       |
 
 ## 在线工具
 
