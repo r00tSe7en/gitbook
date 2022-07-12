@@ -361,6 +361,7 @@ https://waf-bypass.com/
 | Hack-Tools              | 集成各种反弹shell、sql、xss、msf命令...                                  |
 | FindSomething           | [JS接口获取、链接提取](https://github.com/ResidualLaugh/FindSomething) |
 | Penetration Testing Kit | 抓包测试、加解密、                                                     |
+| Authenticator           | 绑定二次认证码                                                       |
 
 | 插件名称（Burp)               | 功能                                                                                                                                       |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -371,6 +372,8 @@ https://waf-bypass.com/
 | BurpBountyPlus           | [https://github.com/ggg4566/BurpBountyPlus](https://github.com/ggg4566/BurpBountyPlus)                                                   |
 | BurpFastJsonScan         | [https://github.com/pmiaowu/BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan)                                               |
 | FastJsonScan             | [https://github.com/zilong3033/fastjsonScan](https://github.com/zilong3033/fastjsonScan)                                                 |
+| log4j2Scan               | [https://github.com/pmiaowu/log4j2Scan](https://github.com/pmiaowu/log4j2Scan)                                                           |
+| SpringScan               | [https://github.com/metaStor/SpringScan](https://github.com/metaStor/SpringScan)                                                         |
 | Turbo Intruder           | [https://mp.weixin.qq.com/s/CoTlpOOq2-\_0ZzVWc42Q5w](https://mp.weixin.qq.com/s/CoTlpOOq2-\_0ZzVWc42Q5w)                                 |
 | Burp Requests            | [https://github.com/silentsignal/burp-requests](https://github.com/silentsignal/burp-requests/)                                          |
 | burpFakeIP               | [https://github.com/TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)                                               |
