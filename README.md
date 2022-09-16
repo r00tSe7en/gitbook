@@ -394,6 +394,8 @@ https://waf-bypass.com/
 
 ### 编码解码
 
+[字节换算器\_字节转换器\_电脑内存/硬盘大小字节单位换算器\_55查询](http://cunchu.55cha.com/)
+
 [php编码转换工具 - Base64+Gzinflate在线压缩 - 站长工具 - 追溯](http://www.zhuisu.net/tool/phpencode.php)
 
 [Ascii转中文字符-中文转Ascii编码-在线Ascii编码解码工具](http://www.jsons.cn/ascii/)
@@ -433,6 +435,10 @@ https://waf-bypass.com/
 [SOMD5](https://www.somd5.com)
 
 [md5 cracker - The fastest way to recover your lost passwords - Crack it](http://md5this.com)
+
+#### 大小转换
+
+字节换算器\_字节转换器\_电脑内存/硬盘大小字节单位换算器\_55查询
 
 ### SQL注入
 
@@ -528,7 +534,9 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 • https://github.com/fuzz-security/SuperWordlist [基于实战沉淀下的各种弱口令字典]
 • https://github.com/Daveqqq/weak-passwords-top200 [各国top200]
 • https://github.com/t43Wiu6/blackJack-Dicts [参考十余个项目整理的目录和文件字典]
+• https://github.com/f0ng/JavaFileDict [Java应用的一些配置文件/路径字典 ]
 • https://github.com/w2n1ck/phone_dict [一个开发测试常用的特殊手机号字典]
+• https://github.com/Bo0oM/fuzz.txt [高危敏感目录fuzz-长期维护]
 
 somd5的字典
 • https://www.somd5.com/download/dict/
@@ -641,6 +649,10 @@ somd5的字典
 [LOLBAS](https://lolbas-project.github.io) （Win - 二进制速查）
 
 [WADComs](https://wadcoms.github.io)（AD环境渗透命令速查）
+
+### 杀软识别
+
+[windows进程识别-棱角社区](https://forum.ywhack.com/bountytips.php?process) （高亮、进程很全）
 
 ### 沙盒分析
 
