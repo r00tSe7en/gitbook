@@ -9,3 +9,5 @@ description: PYTHON代码模板
 [Python 教程 - 简明教程](https://www.jmjc.tech/tutorial/python/1)
 
 [Python 经典小例子、小案例](https://github.com/jackzhenguo/python-small-examples)
+
+[《Python Cookbook in Chinese》 3rd Edition 翻译](https://github.com/yidao620c/python3-cookbook)
