@@ -12,7 +12,7 @@ description: Go
 
 [米粒网 - 一个和开发者共同成长的社区](https://www.nodejs123.com/books/go)
 
-
+[Go by Example 中文版](https://gobyexample-cn.github.io/) \[基于实践的介绍，包含一系列带有注释说明的示例程序]
 
 #### 优秀的Go库收集项目
 
