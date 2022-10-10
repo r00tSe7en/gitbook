@@ -464,6 +464,8 @@ https://waf-bypass.com/
 
 [XSS\_Cheat\_Sheet\_2020\_Edition](https://github.com/heroanswer/XSS\_Cheat\_Sheet\_2020\_Edition)（github）
 
+[( XSS ) Vulnerability Payload List](https://github.com/payloadbox/xss-payload-list)（github）
+
 #### 编码小结
 
 ```
