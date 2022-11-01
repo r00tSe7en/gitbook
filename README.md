@@ -742,3 +742,5 @@ somd5的字典
 [阿里云漏洞库](https://avd.aliyun.com) （漏洞更新及时）
 
 [PeiQi文库 · 语雀](https://www.yuque.com/peiqiwiki/)（poc集合）
+
+[SecurityList](https://github.com/ax1sX/SecurityList)（web渗透+代码审计）
