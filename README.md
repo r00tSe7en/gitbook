@@ -373,7 +373,9 @@ https://waf-bypass.com/
 | BurpFastJsonScan         | [https://github.com/pmiaowu/BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan)                                               |
 | FastJsonScan             | [https://github.com/zilong3033/fastjsonScan](https://github.com/zilong3033/fastjsonScan)                                                 |
 | log4j2Scan               | [https://github.com/pmiaowu/log4j2Scan](https://github.com/pmiaowu/log4j2Scan)                                                           |
+| Log4j2Scan               | [https://github.com/whwlsfb/Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan)                                                           |
 | SpringScan               | [https://github.com/metaStor/SpringScan](https://github.com/metaStor/SpringScan)                                                         |
+| SpringSpider             | [https://github.com/whwlsfb/SpringSpider](https://github.com/whwlsfb/SpringSpider)                                                       |
 | Turbo Intruder           | [https://mp.weixin.qq.com/s/CoTlpOOq2-\_0ZzVWc42Q5w](https://mp.weixin.qq.com/s/CoTlpOOq2-\_0ZzVWc42Q5w)                                 |
 | Burp Requests            | [https://github.com/silentsignal/burp-requests](https://github.com/silentsignal/burp-requests/)                                          |
 | burpFakeIP               | [https://github.com/TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)                                               |
@@ -391,6 +393,7 @@ https://waf-bypass.com/
 | burp-wildcard            | [https://github.com/hvqzao/burp-wildcard](https://github.com/hvqzao/burp-wildcard)                                                       |
 | APIKit                   | [https://github.com/API-Security/APIKit](https://github.com/API-Security/APIKit)                                                         |
 | JWT4B                    | [https://github.com/ozzi-/JWT4B](https://github.com/ozzi-/JWT4B)                                                                         |
+| BurpCrypto               | [https://github.com/whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto)                                                           |
 
 ## 在线工具
 
