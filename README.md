@@ -390,6 +390,7 @@ https://waf-bypass.com/
 | Passive Scan Client      | [http://github.com/c0ny1/passive-scan-client](http://github.com/c0ny1/passive-scan-client)                                               |
 | burp-wildcard            | [https://github.com/hvqzao/burp-wildcard](https://github.com/hvqzao/burp-wildcard)                                                       |
 | APIKit                   | [https://github.com/API-Security/APIKit](https://github.com/API-Security/APIKit)                                                         |
+| JWT4B                    | [https://github.com/ozzi-/JWT4B](https://github.com/ozzi-/JWT4B)                                                                         |
 
 ## 在线工具
 
