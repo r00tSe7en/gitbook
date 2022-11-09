@@ -72,9 +72,8 @@ description: 先学形 ，再学意 。
 
 ## Pentesting\_Active\_directory（脑图）
 
-[https://www.xmind.net/m/5dypm8/](https://www.xmind.net/m/5dypm8/)
+[https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory](https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory)
 
+## Active Directory 漏洞利用备忘单
 
-
-
-
+[https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
