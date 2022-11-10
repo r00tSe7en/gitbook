@@ -72,9 +72,9 @@ description: 先学形 ，再学意 。
 
 ## Pentesting\_Active\_directory（脑图）
 
-[https://github.com/Orange-Cyberdefense/ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) \[]
+[https://github.com/Orange-Cyberdefense/ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) \[最新]
 
-[https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory](https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory) \[]
+[https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory](https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory) \[翻译较旧]
 
 ## Active Directory 漏洞利用备忘单
 
