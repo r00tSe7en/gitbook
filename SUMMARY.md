@@ -12,6 +12,7 @@
   * [PYTHON](dai-ma-mo-ban/python.md)
   * [Go](dai-ma-mo-ban/go.md)
   * [C#](dai-ma-mo-ban/c.md)
+  * [C/C++](dai-ma-mo-ban/c-c++.md)
   * [WIN32-API](dai-ma-mo-ban/win32-api.md)
   * [POWERSHELL](dai-ma-mo-ban/powershell-1.md)
 * [代码审计](dai-ma-shen-ji/README.md)
