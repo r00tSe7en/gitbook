@@ -364,6 +364,7 @@ https://waf-bypass.com/
 | FindSomething           | [JS接口获取、链接提取](https://github.com/ResidualLaugh/FindSomething) |
 | Penetration Testing Kit | 抓包测试、加解密、                                                     |
 | Authenticator           | 绑定二次认证码                                                       |
+| SourceDetector-dist     | [自动发现.map文件](https://github.com/Lz1y/SourceDetector-dist)     |
 
 | 插件名称（Burp)               | 功能                                                                                                                                       |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
