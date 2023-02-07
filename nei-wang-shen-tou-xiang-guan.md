@@ -78,4 +78,10 @@ description: 先学形 ，再学意 。
 
 ## Active Directory 漏洞利用备忘单
 
-[https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+{% embed url="https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet" %}
+
+{% embed url="https://github.com/RistBS/Awesome-RedTeam-Cheatsheet" %}
+
+{% embed url="https://github.com/0range-x/Domain-penetration_one-stop" %}
+
+{% embed url="https://github.com/JDArmy/DCSec" %}
