@@ -85,3 +85,7 @@ description: 先学形 ，再学意 。
 {% embed url="https://github.com/0range-x/Domain-penetration_one-stop" %}
 
 {% embed url="https://github.com/JDArmy/DCSec" %}
+
+## Game Of Active Directory v2
+
+[https://mayfly277.github.io/posts/GOADv2/](https://mayfly277.github.io/posts/GOADv2/)\
