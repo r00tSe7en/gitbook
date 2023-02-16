@@ -664,6 +664,8 @@ somd5的字典
 
 [windows进程识别-棱角社区](https://forum.ywhack.com/bountytips.php?process) （高亮、进程很全）
 
+[刨洞技术交流](http://42.193.251.15/tasklist.php) （小白牛逼，维护的很好）
+
 ### 沙盒分析
 
 [Interactive Online Malware Analysis Sandbox - ANY.RUN](https://app.any.run)
