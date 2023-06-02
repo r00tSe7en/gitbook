@@ -726,6 +726,8 @@ somd5的字典
 
 [The Hacker Recipes](https://www.thehacker.recipes) (AD安全居多)
 
+[InfoSec Notes](https://notes.qazeer.io/)（AD安全命令）
+
 [Pentest Book](https://pentestbook.six2dez.com) （AD安全命令、渗透checklist）
 
 [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)（工具命令、渗透checklist）
