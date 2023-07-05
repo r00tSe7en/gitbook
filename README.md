@@ -75,6 +75,8 @@ description: 在线工具集合
 
 [Public Buckets by GrayhatWarfare](https://buckets.grayhatwarfare.com/) （公共存储桶搜索）
 
+[recon.cloud](https://recon.cloud/)（在线搜索目标网站下的云资产）
+
 ### 子域/IP/旁站C段
 
 #### 子域发现
@@ -751,6 +753,8 @@ somd5的字典
 [Hack Inn](https://www.hackinn.com) （安全大会议题ppt集合）
 
 [阿里云漏洞库](https://avd.aliyun.com) （漏洞更新及时）
+
+[长亭漏洞库](https://stack.chaitin.com/vuldb/index)（漏洞更新及时）
 
 [PeiQi文库 · 语雀](https://www.yuque.com/peiqiwiki/)（poc集合）
 
