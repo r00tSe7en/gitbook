@@ -63,7 +63,9 @@ description: 在线工具集合
 
 [FullHunt | Expose Your Attack Surface](https://fullhunt.io/)
 
-[QAX全球鹰Hunter](https://hunter.qianxin.com/)
+[QAX全球鹰](https://hunter.qianxin.com/)
+
+[Hunter Search Engine](https://hunter.how/)
 
 [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 
