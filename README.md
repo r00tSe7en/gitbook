@@ -147,6 +147,10 @@ description: 在线工具集合
 
 [Hurricane Electric BGP Toolkit](https://bgp.he.net) （根据企业名确定ASN号得到企业IP资产）
 
+[Online investigation tool - Reverse IP, NS, MX, WHOIS and Search Tools](https://dnslytics.com/) （ASN）
+
+[ASN/IP Whois Query | IPInsight.io](https://whois.ipinsight.io/) （ASN）
+
 可用子域发现->DNS->综合型
 
 #### 模糊匹配
