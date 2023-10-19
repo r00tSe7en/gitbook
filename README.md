@@ -529,8 +529,7 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 
 #### 常用字典
 
-```
-提供了 25 个在线破解和 25 个离线破解接口，支持 48 种算法破解
+<pre><code>提供了 25 个在线破解和 25 个离线破解接口，支持 48 种算法破解
 • https://github.com/L-codes/pwcrack-framework [密码破解框架]
 
 常见设备
@@ -552,10 +551,12 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 • https://github.com/3had0w/Fuzzing-Dicts
 • https://github.com/j3ers3/PassList
 • https://github.com/fuzz-security/SuperWordlist [基于实战沉淀下的各种弱口令字典]
-• https://github.com/Daveqqq/weak-passwords-top200 [各国top200]
+• https://github.com/Daveqqq/weak-passwords-top200 [各国密码top200]
 • https://github.com/t43Wiu6/blackJack-Dicts [参考十余个项目整理的目录和文件字典]
 • https://github.com/f0ng/JavaFileDict [Java应用的一些配置文件/路径字典 ]
 • https://github.com/w2n1ck/phone_dict [一个开发测试常用的特殊手机号字典]
+<strong>• https://github.com/rootphantomer/Blasting_dictionary [a5源码网源码目录字典]
+</strong>• https://github.com/SexyBeast233/SecDictionary [手机号字典]
 • https://github.com/Bo0oM/fuzz.txt [高危敏感目录fuzz-长期维护]
 
 somd5的字典
@@ -585,10 +586,11 @@ somd5的字典
 • https://github.com/attackdebris/kerberos_enum_userlists
 
 定制化自定义生成
+• https://github.com/ffffffff0x/gendict
 • https://github.com/Mebus/cupp
 • https://github.com/HongLuDianXue/BaiLu-SED-Tool
 • https://github.com/bit4woo/passmaker
-```
+</code></pre>
 
 #### 密码策略
 
