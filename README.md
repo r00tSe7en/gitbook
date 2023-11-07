@@ -389,6 +389,7 @@ https://waf-bypass.com/
 | Log4j2Scan               | [https://github.com/whwlsfb/Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan)                                                           |
 | SpringScan               | [https://github.com/metaStor/SpringScan](https://github.com/metaStor/SpringScan)                                                         |
 | SpringSpider             | [https://github.com/whwlsfb/SpringSpider](https://github.com/whwlsfb/SpringSpider)                                                       |
+| TsojanScan               | [https://github.com/Tsojan/TsojanScan](https://github.com/Tsojan/TsojanScan)                                                             |
 | Turbo Intruder           | [https://mp.weixin.qq.com/s/CoTlpOOq2-\_0ZzVWc42Q5w](https://mp.weixin.qq.com/s/CoTlpOOq2-\_0ZzVWc42Q5w)                                 |
 | Burp Requests            | [https://github.com/silentsignal/burp-requests](https://github.com/silentsignal/burp-requests/)                                          |
 | burpFakeIP               | [https://github.com/TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP)                                               |
@@ -688,6 +689,8 @@ somd5的字典
 
 [Android Security Wiki](http://www.droidsec.cn/android-security-basic/)
 
+[摸瓜](https://mogua.co/) （app在线分析很详细）
+
 ### 社会工程
 
 #### 注册查询
@@ -728,8 +731,6 @@ somd5的字典
 
 [干货集中营-算命縖子](http://www.nmd5.com/test/index.php) （精选好文）
 
-[星际黑客](https://www.xj.hk) （聚合平台）
-
 [hacktricks](https://book.hacktricks.xyz) （各种命令、提示、攻击方法）
 
 [Offensive Security Cheatsheet](https://cheatsheet.haax.fr)（安全方面基本都涉及了，很全很牛逼）
@@ -769,3 +770,7 @@ somd5的字典
 [PeiQi文库 · 语雀](https://www.yuque.com/peiqiwiki/)（poc集合）
 
 [SecurityList](https://github.com/ax1sX/SecurityList)（web渗透+代码审计）
+
+[云安全攻防](https://lzcloudsecurity.gitbook.io/yun-an-quan-gong-fang-ru-men/) （云安全集合）
+
+[T Wiki 面向云安全方向的知识文库](https://wiki.teamssix.com/) （云安全集合）
