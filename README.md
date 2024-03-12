@@ -559,6 +559,7 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 <strong>• https://github.com/rootphantomer/Blasting_dictionary [a5源码网源码目录字典]
 </strong>• https://github.com/SexyBeast233/SecDictionary [手机号字典]
 • https://github.com/Bo0oM/fuzz.txt [高危敏感目录fuzz-长期维护]
+• https://wordlists.assetnote.io/ [Assetnote Wordlists-国外整理字典]
 
 somd5的字典
 • https://www.somd5.com/download/dict/
