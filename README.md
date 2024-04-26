@@ -369,12 +369,13 @@ https://waf-bypass.com/
 | Wappalyzer              | 指纹识别                                                          |
 | Web Scraper             | 浏览器爬虫                                                         |
 | Modify Header Value     | 修改请求头                                                         |
-| X-Forwarded-For Header  | XFF                                                           |
+| X-Forwarded-For Header  | XFF头                                                          |
 | Hack-Tools              | 集成各种反弹shell、sql、xss、msf命令...                                  |
 | FindSomething           | [JS接口获取、链接提取](https://github.com/ResidualLaugh/FindSomething) |
 | Penetration Testing Kit | 抓包测试、加解密、                                                     |
 | Authenticator           | 绑定二次认证码                                                       |
 | SourceDetector-dist     | [自动发现.map文件](https://github.com/Lz1y/SourceDetector-dist)     |
+| SingleFile              | 网页克隆                                                          |
 
 | 插件名称（Burp)               | 功能                                                                                                                                       |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -408,6 +409,11 @@ https://waf-bypass.com/
 | APIKit                   | [https://github.com/API-Security/APIKit](https://github.com/API-Security/APIKit)                                                         |
 | JWT4B                    | [https://github.com/ozzi-/JWT4B](https://github.com/ozzi-/JWT4B)                                                                         |
 | BurpCrypto               | [https://github.com/whwlsfb/BurpCrypto](https://github.com/whwlsfb/BurpCrypto)                                                           |
+| burp-awesome-tls         | [https://github.com/sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls)                                               |
+| burp-requests-Python     | [https://github.com/silentsignal/burp-requests/releases](https://github.com/silentsignal/burp-requests/releases)                         |
+| xia\_sql（瞎注）             | [https://github.com/smxiazi/xia\_sql](https://github.com/smxiazi/xia\_sql)                                                               |
+| xia\_Yue（瞎越）             | [https://github.com/smxiazi/xia\_Yue](https://github.com/smxiazi/xia\_Yue)                                                               |
+| burpJsEncrypter          | [https://github.com/TheKingOfDuck/burpJsEncrypter](https://github.com/TheKingOfDuck/burpJsEncrypter)                                     |
 
 ## 在线工具
 
