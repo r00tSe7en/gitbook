@@ -396,6 +396,8 @@ https://waf-bypass.com/
 
 [NTLM密码加密计算器](https://www.jisuan.mobi/p11BbzHum6b3uyJW.html)（明文转hash）
 
+[利用独有算法加上CUDA平台算力支持百分百破译LMHASH、Net-NTLMv1密文](https://crypto.lab.mistiny.com/)
+
 [cmd5在线解密破解,md5解密加密](https://www.cmd5.com) （推荐）
 
 [Get Cracking | crack.sh](https://crack.sh/get-cracking/)
@@ -535,6 +537,7 @@ somd5的字典
 中文拼音
 • https://github.com/rakjong/top-500-username
 • https://github.com/ffffffff0x/name-fuzz [针对目标已知信息的字典生成工具]
+• https://github.com/WangYihang/ccupp [基于社会工程学的弱口令密码字典生成工具]
 • https://github.com/LandGrey/ChineseMaskReflector [使用掩码生成自定义中文用户名拼音爆破字典]
 
 域用户枚举字典 
