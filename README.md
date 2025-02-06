@@ -73,7 +73,7 @@ description: 在线工具集合
 
 [进阶Google搜索](https://w-e-b.site/?act=google-search)
 
-[Google Hacking](https://www.0xll.cc/google\_hack.html) （快捷/github/pastbin）
+[Google Hacking](https://www.0xll.cc/google_hack.html) （快捷/github/pastbin）
 
 [Bug Bounty Helper](https://dorks.faisalahmed.me) （Google Hacking）
 
@@ -161,7 +161,7 @@ description: 在线工具集合
 
 ### 邮箱采集
 
-[红队测试之邮箱打点](https://mp.weixin.qq.com/s?\_\_biz=MzAwMzYxNzc1OA==\&mid=2247483886\&idx=1\&sn=4c98836e278737054a2d32416007fa27\&chksm=9b39275fac4eae490e0c5ca5f90887aa3b8a441f137d18d3b73470ba46577b41ea3a9cfa1342\&mpshare=1\&scene=23\&srcid=\&sharer\_sharetime=1589279316797\&sharer\_shareid=596f231001c1b1188da61ae064765cc8#rd)（推荐[theHarvester](https://github.com/laramies/theHarvester)）
+[红队测试之邮箱打点](https://mp.weixin.qq.com/s?__biz=MzAwMzYxNzc1OA==\&mid=2247483886\&idx=1\&sn=4c98836e278737054a2d32416007fa27\&chksm=9b39275fac4eae490e0c5ca5f90887aa3b8a441f137d18d3b73470ba46577b41ea3a9cfa1342\&mpshare=1\&scene=23\&srcid=\&sharer_sharetime=1589279316797\&sharer_shareid=596f231001c1b1188da61ae064765cc8#rd)（推荐[theHarvester](https://github.com/laramies/theHarvester)）
 
 [红队选手是如何收集邮箱的](https://mp.weixin.qq.com/s/GbyKmTiiWh8amTQ6Vv0kgQ) （推荐[snov.io](https://snov.io)）
 
@@ -358,7 +358,7 @@ https://waf-bypass.com/
 
 ### 插件扩展
 
-<table><thead><tr><th width="285">插件名称（Chrome）</th><th>功能</th></tr></thead><tbody><tr><td>Charset</td><td>网页编码修改</td></tr><tr><td>FeHelper</td><td>JS/JSON/代码美化...</td></tr><tr><td>HackBar</td><td>编码解码/发包测试</td></tr><tr><td>Proxy SwitchyOmega</td><td>端口代理</td></tr><tr><td>ScanAnnotation</td><td>F12 快速显示页面注释内容</td></tr><tr><td>Shodan</td><td>IP识别</td></tr><tr><td>Wappalyzer</td><td>指纹识别</td></tr><tr><td>Web Scraper</td><td>浏览器爬虫</td></tr><tr><td>Modify Header Value</td><td>修改请求头</td></tr><tr><td>X-Forwarded-For Header</td><td>XFF头</td></tr><tr><td>Hack-Tools</td><td>集成各种反弹shell、sql、xss、msf命令...</td></tr><tr><td>FindSomething</td><td><a href="https://github.com/ResidualLaugh/FindSomething">JS接口获取、链接提取</a></td></tr><tr><td>Penetration Testing Kit</td><td>抓包测试、加解密、</td></tr><tr><td>Authenticator</td><td>绑定二次认证码</td></tr><tr><td>SourceDetector-dist</td><td><a href="https://github.com/Lz1y/SourceDetector-dist">自动发现.map文件</a></td></tr><tr><td>SingleFile</td><td>网页克隆</td></tr></tbody></table>
+<table><thead><tr><th width="285">插件名称（Chrome）</th><th>功能</th></tr></thead><tbody><tr><td>Charset</td><td>网页编码修改</td></tr><tr><td>FeHelper</td><td>JS/JSON/代码美化...</td></tr><tr><td>HackBar</td><td>编码解码/发包测试</td></tr><tr><td>Proxyverse</td><td>端口代理</td></tr><tr><td>ScanAnnotation</td><td>F12 快速显示页面注释内容</td></tr><tr><td>Shodan</td><td>IP识别</td></tr><tr><td>Wappalyzer</td><td>指纹识别</td></tr><tr><td>Web Scraper</td><td>浏览器爬虫</td></tr><tr><td>Modify Header Value</td><td>修改请求头</td></tr><tr><td>X-Forwarded-For Header</td><td>XFF头</td></tr><tr><td>Hack-Tools</td><td>集成各种反弹shell、sql、xss、msf命令...</td></tr><tr><td>FindSomething</td><td><a href="https://github.com/ResidualLaugh/FindSomething">JS接口获取、链接提取</a></td></tr><tr><td>Penetration Testing Kit</td><td>抓包测试、加解密、</td></tr><tr><td>Authenticator</td><td>绑定二次认证码</td></tr><tr><td>SourceDetector-dist</td><td><a href="https://github.com/Lz1y/SourceDetector-dist">自动发现.map文件</a></td></tr><tr><td>SingleFile</td><td>网页克隆</td></tr></tbody></table>
 
 <table><thead><tr><th width="284">插件名称（Burp)</th><th>功能</th></tr></thead><tbody><tr><td>新版下载</td><td><a href="https://portswigger.net/burp/releases/">https://portswigger.net/burp/releases</a></td></tr><tr><td>注册机</td><td><a href="https://down.52pojie.cn/Tools/Network_Analyzer/">https://down.52pojie.cn/Tools/Network_Analyzer</a></td></tr><tr><td>jython-standalone</td><td><a href="https://search.maven.org/artifact/org.python/jython-standalone">https://search.maven.org/artifact/org.python/jython-standalone</a></td></tr><tr><td>BurpShiroPassiveScan</td><td><a href="https://github.com/pmiaowu/BurpShiroPassiveScan">https://github.com/pmiaowu/BurpShiroPassiveScan</a></td></tr><tr><td>BurpBountyPlus</td><td><a href="https://github.com/ggg4566/BurpBountyPlus">https://github.com/ggg4566/BurpBountyPlus</a></td></tr><tr><td>BurpFastJsonScan</td><td><a href="https://github.com/pmiaowu/BurpFastJsonScan">https://github.com/pmiaowu/BurpFastJsonScan</a></td></tr><tr><td>FastJsonScan</td><td><a href="https://github.com/zilong3033/fastjsonScan">https://github.com/zilong3033/fastjsonScan</a></td></tr><tr><td>log4j2Scan</td><td><a href="https://github.com/pmiaowu/log4j2Scan">https://github.com/pmiaowu/log4j2Scan</a></td></tr><tr><td>Log4j2Scan</td><td><a href="https://github.com/whwlsfb/Log4j2Scan">https://github.com/whwlsfb/Log4j2Scan</a></td></tr><tr><td>SpringScan</td><td><a href="https://github.com/metaStor/SpringScan">https://github.com/metaStor/SpringScan</a></td></tr><tr><td>SpringSpider</td><td><a href="https://github.com/whwlsfb/SpringSpider">https://github.com/whwlsfb/SpringSpider</a></td></tr><tr><td>TsojanScan</td><td><a href="https://github.com/Tsojan/TsojanScan">https://github.com/Tsojan/TsojanScan</a></td></tr><tr><td>Turbo Intruder</td><td><a href="https://mp.weixin.qq.com/s/CoTlpOOq2-_0ZzVWc42Q5w">https://mp.weixin.qq.com/s/CoTlpOOq2-_0ZzVWc42Q5w</a></td></tr><tr><td>Burp Requests</td><td><a href="https://github.com/silentsignal/burp-requests/">https://github.com/silentsignal/burp-requests</a></td></tr><tr><td>burpFakeIP</td><td><a href="https://github.com/TheKingOfDuck/burpFakeIP">https://github.com/TheKingOfDuck/burpFakeIP</a></td></tr><tr><td>Knife</td><td><a href="https://github.com/bit4woo/knife">https://github.com/bit4woo/knife</a></td></tr><tr><td>NEW_xp_CAPTCHA</td><td><a href="https://github.com/smxiazi/NEW_xp_CAPTCHA">https://github.com/smxiazi/NEW_xp_CAPTCHA</a></td></tr><tr><td>Captcha Killer</td><td><a href="https://github.com/c0ny1/captcha-killer">https://github.com/c0ny1/captcha-killer</a></td></tr><tr><td>Chunked Coding Converter</td><td><a href="https://github.com/c0ny1/chunked-coding-converter">https://github.com/c0ny1/chunked-coding-converter</a></td></tr><tr><td>BurpSuite_403Bypasser</td><td><a href="https://github.com/sting8k/BurpSuite_403Bypasser">https://github.com/sting8k/BurpSuite_403Bypasser</a></td></tr><tr><td>BypassPro</td><td><a href="https://github.com/0x727/BypassPro">https://github.com/0x727/BypassPro</a></td></tr><tr><td>AWS Security Checks</td><td><a href="https://portswigger.net/bappstore/f078b9254eab40dc8c562177de3d3b2d">https://portswigger.net/bappstore/f078b9254eab40dc8c562177de3d3b2d</a></td></tr><tr><td>Wsdler</td><td><a href="https://github.com/portswigger/wsdler">https://github.com/portswigger/wsdler</a></td></tr><tr><td>.NET Beautifier</td><td><a href="https://github.com/portswigger/dotnet-beautifier">https://github.com/portswigger/dotnet-beautifier</a></td></tr><tr><td>ViewState Editor</td><td><a href="https://github.com/portswigger/viewstate-editor">https://github.com/portswigger/viewstate-editor</a></td></tr><tr><td>HaE</td><td><a href="https://github.com/gh0stkey/HaE">https://github.com/gh0stkey/HaE</a></td></tr><tr><td>Passive Scan Client</td><td><a href="http://github.com/c0ny1/passive-scan-client">http://github.com/c0ny1/passive-scan-client</a></td></tr><tr><td>burp-wildcard</td><td><a href="https://github.com/hvqzao/burp-wildcard">https://github.com/hvqzao/burp-wildcard</a></td></tr><tr><td>APIKit</td><td><a href="https://github.com/API-Security/APIKit">https://github.com/API-Security/APIKit</a></td></tr><tr><td>JWT4B</td><td><a href="https://github.com/ozzi-/JWT4B">https://github.com/ozzi-/JWT4B</a></td></tr><tr><td>BurpCrypto</td><td><a href="https://github.com/whwlsfb/BurpCrypto">https://github.com/whwlsfb/BurpCrypto</a></td></tr><tr><td>burp-awesome-tls</td><td><a href="https://github.com/sleeyax/burp-awesome-tls">https://github.com/sleeyax/burp-awesome-tls</a></td></tr><tr><td>burp-requests-Python</td><td><a href="https://github.com/silentsignal/burp-requests/releases">https://github.com/silentsignal/burp-requests/releases</a></td></tr><tr><td>xia_sql（瞎注）</td><td><a href="https://github.com/smxiazi/xia_sql">https://github.com/smxiazi/xia_sql</a></td></tr><tr><td>xia_Yue（瞎越）</td><td><a href="https://github.com/smxiazi/xia_Yue">https://github.com/smxiazi/xia_Yue</a></td></tr><tr><td>burpJsEncrypter</td><td><a href="https://github.com/TheKingOfDuck/burpJsEncrypter">https://github.com/TheKingOfDuck/burpJsEncrypter</a></td></tr></tbody></table>
 
@@ -382,7 +382,7 @@ https://waf-bypass.com/
 
 [Xss测试字符串转换工具-工具猫](https://www.toolmao.com/xsstranser)（String.fromCharCode()）
 
-[Unicode - Compart](https://www.compart.com/en/unicode/) （bypass waf [参考](https://jlajara.gitlab.io/posts/2020/02/19/Bypass\_WAF\_Unicode.html)）
+[Unicode - Compart](https://www.compart.com/en/unicode/) （bypass waf [参考](https://jlajara.gitlab.io/posts/2020/02/19/Bypass_WAF_Unicode.html)）
 
 [PlayGround](https://tool.leavesongs.com)（全）
 
@@ -418,7 +418,7 @@ https://waf-bypass.com/
 
 [带有sqlmap的免费和在线SQL注入扫描程序](https://w-e-b.site/?act=sqlmap)
 
-[SQL注入知识库](https://websec.ca/kb/sql\_injection)
+[SQL注入知识库](https://websec.ca/kb/sql_injection)
 
 [NetSPI SQL注入Wiki](https://sqlwiki.netspi.com)
 
@@ -436,7 +436,7 @@ https://waf-bypass.com/
 
 [Bypass xss过滤的测试方法 - 五道口杀气](http://drop.zone.ci/drops/Bypass%20xss%E8%BF%87%E6%BB%A4%E7%9A%84%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95.html)
 
-[XSS\_Cheat\_Sheet\_2020\_Edition](https://github.com/heroanswer/XSS\_Cheat\_Sheet\_2020\_Edition)（github）
+[XSS\_Cheat\_Sheet\_2020\_Edition](https://github.com/heroanswer/XSS_Cheat_Sheet_2020_Edition)（github）
 
 [( XSS ) Vulnerability Payload List](https://github.com/payloadbox/xss-payload-list)（github）
 
@@ -594,7 +594,7 @@ somd5的字典
 
 [在线二维码解码器 二维码安全检测工具](http://jiema.wwei.cn)
 
-[PDF 转换为 PPT 和 PPTX 文件](https://www.ilovepdf.com/zh\_cn/pdf\_to\_powerpoint)
+[PDF 转换为 PPT 和 PPTX 文件](https://www.ilovepdf.com/zh_cn/pdf_to_powerpoint)
 
 [cookie字符串转json(dict字典)](http://tools.bugscaner.com/cookietodict)
 
@@ -684,10 +684,6 @@ somd5的字典
 
 ## 文章聚合
 
-[Hacking8安全信息流](https://i.hacking8.com/forums/)（论坛热点）
-
-[干货集中营-算命縖子](http://www.nmd5.com/test/index.php) （精选好文）
-
 [hacktricks](https://book.hacktricks.xyz) （各种命令、提示、攻击方法）
 
 [Offensive Security Cheatsheet](https://cheatsheet.haax.fr)（安全方面基本都涉及了，很全很牛逼）
@@ -702,7 +698,7 @@ somd5的字典
 
 [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)（工具命令、渗透checklist）
 
-[Pentest\_Note](https://github.com/xiaoy-sec/Pentest\_Note)（没有思路 / 忘记命令就看看）
+[Pentest\_Note](https://github.com/xiaoy-sec/Pentest_Note)（没有思路 / 忘记命令就看看）
 
 [\[代码审计\]知识星球](https://zsxq.tricking.io) （技能提升）
 
@@ -710,9 +706,7 @@ somd5的字典
 
 [CTF Wiki](https://wiki.x10sec.org)（细节 + 总结）
 
-[斗象能力中心](https://blog.riskivy.com)（漏洞分析+弹药库）
-
-[蚂蚁宝库](https://qianxiao996.cn/wenzhang/)（公众号-聚合平台）
+[洞见网安](https://wechat.doonsec.com/)（公众号-聚合平台）
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) （Payload集合）
 
