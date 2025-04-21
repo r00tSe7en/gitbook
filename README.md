@@ -143,8 +143,6 @@ description: 在线工具集合
 
 #### 旁站C段
 
-[在线旁站查询-C段查询-必应接口C段查询-同ip网站查询 Lcy's Blog](https://phpinfo.me/bing.php)
-
 [Chinaz-同IP网站查询，同服务器网站查询](http://s.tool.chinaz.com/same)
 
 [Hurricane Electric BGP Toolkit](https://bgp.he.net) （根据企业名确定ASN号得到企业IP资产）
@@ -295,8 +293,6 @@ https://waf-bypass.com/
 ```
 
 ### 端口扫描
-
-[nmap在线扫描-芳华绝代安全团队](http://www.scanip.cn/index/index.do)（可自定义）
 
 [在线端口扫描仪由Nmap提供支持- HackerTarget.com](https://hackertarget.com/nmap-online-port-scanner/)
 
@@ -634,7 +630,9 @@ somd5的字典
 
 [windows进程识别-棱角社区](https://forum.ywhack.com/bountytips.php?process) （高亮、进程很全）
 
-[刨洞技术交流](http://42.193.251.15/tasklist.php) （小白牛逼，维护的很好）
+[刨洞技术交流](http://42.193.251.15/tasklist.php) （维护的很好）
+
+[杀软在线识别-渊龙Sec安全团队](https://av.aabyss.cn/)
 
 ### 沙盒分析
 
@@ -656,7 +654,7 @@ somd5的字典
 
 [CheckUserNames](https://checkusernames.com) （在线 OSINT 工具，可帮助您在 170 多个社交网络中查找用户名。它还可以用于检查品牌公司名称，而不仅仅是个人。）
 
-[TG机器人@FreeSGKbot](https://t.me/FreeSGKbot) （tg社工库）
+tg社工库
 
 [通过 Github 找到一个人](https://www.ixiqin.com/2020/01/how-to-find-a-person-through-making/)
 
