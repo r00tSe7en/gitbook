@@ -392,6 +392,8 @@ https://waf-bypass.com/
 
 [NTLM密码加密计算器](https://www.jisuan.mobi/p11BbzHum6b3uyJW.html)（明文转hash）
 
+[Bcrypt Generator - Online Hash Generator and Checker](https://bcrypt-generator.com/)
+
 [利用独有算法加上CUDA平台算力支持百分百破译LMHASH、Net-NTLMv1密文](https://crypto.lab.mistiny.com/)
 
 [cmd5在线解密破解,md5解密加密](https://www.cmd5.com) （推荐）
