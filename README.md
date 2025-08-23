@@ -183,6 +183,8 @@ description: 在线工具集合
 
 [SPF Query Tool](https://www.kitterman.com/spf/validate.html)（SPF验证）
 
+[垃圾邮件检测](https://www.mail-tester.com/) （检测发信邮箱垃圾邮件的匹配度）
+
 [邮件伪造之SPF绕过的5种思路](https://www.t00ls.net/viewthread.php?tid=56426\&highlight=%E9%82%AE%E4%BB%B6%E4%BC%AA%E9%80%A0)
 
 #### 邮箱服务
