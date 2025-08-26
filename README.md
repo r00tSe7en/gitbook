@@ -650,6 +650,12 @@ somd5的字典
 
 [摸瓜](https://mogua.co/) （app在线分析很详细）
 
+[免费在线脱壳](https://56.al/)
+
+[PCAPdroid](https://github.com/emanuele-f/PCAPdroid) （无需root的抓包神器，https需配合 [PCAPdroid-mitm](https://github.com/emanuele-f/PCAPdroid-mitm)）
+
+[Reqable](https://reqable.com/zh-CN/android/) （极简的设计、丰富的功能、高效的性能和桌面手机多端平台）
+
 ### 社会工程
 
 #### 注册查询
