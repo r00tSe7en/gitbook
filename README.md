@@ -430,6 +430,8 @@ https://waf-bypass.com/
 
 ### XSS备忘
 
+[ezXSS](https://ez.pe/manage/account/signup) (开源免费xss平台)
+
 [HTML5 Security Cheatsheet](https://html5sec.org)
 
 [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet) （portswigger）
@@ -654,7 +656,9 @@ somd5的字典
 
 [摸瓜](https://mogua.co/) （app在线分析很详细）
 
-[免费在线脱壳](https://56.al/)
+[免费在线脱壳](https://56.al/) （Android）
+
+[应用商店ipa提取](https://ipadump.com/#/dump) (IOS)
 
 [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) （无需root的抓包神器，https需配合 [PCAPdroid-mitm](https://github.com/emanuele-f/PCAPdroid-mitm)）
 
