@@ -487,6 +487,14 @@ Unicode编码 (\u0061)、ASCII (String.fromCharcode(97))、八进制 (\141)、�
 
 [RUNTIME.EXEC有效负载生成器](https://ares-x.com/tools/runtime-exec/)
 
+### DNSLOG
+
+[Interactsh | Web Client](https://app.interactsh.com/) (Projectdiscory官方提供)
+
+[ByteVet | Free tools](https://byte.vet/)
+
+[CallBack.Red Dns、Http、Rmi、Ldap Log、CmdtoDNSLog](https://www.callback.red/) (自动带外数据记录)
+
 ### 密码字典
 
 #### 常用字典
