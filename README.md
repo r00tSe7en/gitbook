@@ -77,6 +77,12 @@ description: 在线工具集合
 
 [Hunter Search Engine](https://hunter.how/)
 
+[腾讯云安全\_威胁情报中心](https://tix.qq.com/) (dns数据全)
+
+[奇安信威胁情报中心](https://ti.qianxin.com/) (dns数据全)
+
+
+
 [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 
 [进阶Google搜索](https://w-e-b.site/?act=google-search)
