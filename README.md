@@ -81,8 +81,6 @@ description: 在线工具集合
 
 [奇安信威胁情报中心](https://ti.qianxin.com/) (dns数据全)
 
-
-
 [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 
 [进阶Google搜索](https://w-e-b.site/?act=google-search)
@@ -663,6 +661,8 @@ somd5的字典
 [刨洞技术交流](http://42.193.251.15/tasklist.php) （维护的很好）
 
 [杀软在线识别-渊龙Sec安全团队](https://av.aabyss.cn/)
+
+[Windows杀软/运维/办公进程在线识别-\[潇湘信安\]](https://av8.de5.net/)
 
 ### 沙盒分析
 
