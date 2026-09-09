@@ -412,6 +412,8 @@ https://waf-bypass.com/
 
 [利用独有算法加上CUDA平台算力支持百分百破译LMHASH、Net-NTLMv1密文](https://crypto.lab.mistiny.com/)
 
+[NTLMRain](https://lookup.ntlmrain.com/) （从 NetNTLMv1 响应中恢复 NT 哈希值在线工具，包含了4TB的彩虹表）
+
 [cmd5在线解密破解,md5解密加密](https://www.cmd5.com) （推荐）
 
 [Get Cracking | crack.sh](https://crack.sh/get-cracking/)
