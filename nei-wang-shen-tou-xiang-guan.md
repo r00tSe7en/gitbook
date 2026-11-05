@@ -74,7 +74,7 @@ description: 先学形 ，再学意 。
 
 [https://github.com/Orange-Cyberdefense/ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) \[最新]
 
-[https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory](https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory) \[翻译较旧]
+[https://github.com/zha0gongz1/Pentest\_MindMap/tree/main/Pentesting%20Active%20Directory](https://github.com/zha0gongz1/Pentest_MindMap/tree/main/Pentesting%20Active%20Directory) \[翻译较旧]
 
 ## Active Directory 漏洞利用备忘单
 
@@ -90,4 +90,10 @@ description: 先学形 ，再学意 。
 
 ## Game Of Active Directory v2
 
-[https://mayfly277.github.io/posts/GOADv2/](https://mayfly277.github.io/posts/GOADv2/)\
+[https://mayfly277.github.io/posts/GOADv2/](https://mayfly277.github.io/posts/GOADv2/)
+
+
+
+## Active Directory 渗透测试方法
+
+[https://karrab7.com/articles/Active-Directory-Pentesting-Methodology](https://karrab7.com/articles/Active-Directory-Pentesting-Methodology)
